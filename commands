@@ -1,0 +1,8 @@
+pdftotext vom dvbt-download
+
+#dann zusehen, dass die Spaltenüberschriften auch über den richtigen Daten stehen
+#split mit der korrekten Anzahl zeilen
+split -l 41 nrw02
+#und anschließen alle Spalten zusammen pasten
+paste xa* > nrw_neu
+
