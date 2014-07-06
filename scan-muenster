@@ -1,0 +1,16 @@
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bielefeld / Hünenburg 26 Das Erste, arte, Phoenix, EinsFestival
+T 554000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Bielefeld / Hünenburg 31 WDR-OWL_aktuell, NDR/WDR-Südwestfalen, MDR, SWR
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bielefeld / Hünenburg 33 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 506000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE #Dortmund / Florianturm 25 WDR-Dortmund, NDR/WDR-Ruhr, MDR, SWR
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 29 RTL, RTL2, Super RTL, VOX
+T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 35 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 48 Das Erste, arte, Phoenix, EinsFestival
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 52 Tele5, CNN, Eurosport, VIVA
+T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 55 ProSieben, Sat.1, Kabel1, N24
+T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Münster / Baumberg 21 Das Erste, arte, Phoenix, EinsFestival
+T 666000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Münster / Baumberg 45 WDR-Münster, MDR/WDR-Dortmund, NDR, SWR
+T 778000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Münster / Baumberg 59 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Münster-Stadt (Fernmeldeturm) 21 Das Erste, arte, Phoenix, EinsFestival
+T 666000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Münster-Stadt (Fernmeldeturm) 45 WDR-Münster, NDR/WDR-Dortmund, MDR, SWR
+T 778000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Münster-Stadt (Fernmeldeturm) 59 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+

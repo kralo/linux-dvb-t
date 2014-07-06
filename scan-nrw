@@ -1,0 +1,91 @@
+#für dvb-utils kompatiblen scan; aufbereitet
+#siehe z.B. http://wiki.ubuntuusers.de/dvb-utils
+#erstellt aus den dvbt-projekt Daten
+#http://www.ueberallfernsehen.de/dvbtdownloads127.pdf
+# vom 20. November 2013
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Aachen-Stadt (Karlshöhe) 26 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 602000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Aachen-Stadt (Karlshöhe) 37 WDR-Aachen, NDR/WDR-Köln, MDR, SWR
+T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Aachen-Stadt (Karlshöhe) 50 Das Erste, arte, Phoenix, EinsFestival
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Aachen-Stolberg 26 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 602000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Aachen-Stolberg 37 WDR-Aachen, NDR/WDR-Köln, MDR, SWR
+T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Aachen-Stolberg 50 Das Erste, arte, Phoenix, EinsFestival
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bielefeld / Hünenburg 26 Das Erste, arte, Phoenix, EinsFestival
+T 554000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Bielefeld / Hünenburg 31 WDR-OWL_aktuell, NDR/WDR-Südwestfalen, MDR, SWR
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bielefeld / Hünenburg 33 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bonn-Venusberg 26 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bonn-Venusberg 29 RTL, RTL2, Super RTL, VOX
+T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bonn-Venusberg 36 Tele5, CNN, Eurosport, VIVA
+T 698000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Bonn-Venusberg 49 WDR-Köln, MDR/WDR-Bonn, NDR/WDR-Aachen, SWR
+T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bonn-Venusberg 50 Das Erste, arte, Phoenix, EinsFestival
+T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Bonn-Venusberg 53 ProSieben, Sat.1, Kabel1, N24
+T 506000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE #Dortmund / Florianturm 25 WDR-Dortmund, NDR/WDR-Ruhr, MDR, SWR
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 29 RTL, RTL2, Super RTL, VOX
+T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 35 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 48 Das Erste, arte, Phoenix, EinsFestival
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 52 Tele5, CNN, Eurosport, VIVA
+T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Dortmund / Florianturm 55 ProSieben, Sat.1, Kabel1, N24
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Düsseldorf / Rheinturm 29 RTL, RTL2, Super RTL, VOX
+T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Düsseldorf / Rheinturm 35 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 674000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Düsseldorf / Rheinturm 46 WDR-Düsseldorf, MDR/WDR-Duisburg, NDR/WDR-Berg.Land, SWR
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Düsseldorf / Rheinturm 48 Das Erste, arte, Phoenix, EinsFestival
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Düsseldorf / Rheinturm 52 Tele5, CNN, Eurosport, VIVA
+T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Düsseldorf / Rheinturm 55 ProSieben, Sat.1, Kabel1, N24
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Essen-Holsterhausen 29 RTL, RTL2, Super RTL, VOX
+T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Essen-Holsterhausen 35 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Essen-Holsterhausen 48 Das Erste, arte, Phoenix, EinsFestival
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Essen-Holsterhausen 52 Tele5, CNN, Eurosport, VIVA
+T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Essen-Holsterhausen 55 ProSieben, Sat.1, Kabel1, N24
+T 762000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE #Essen-Holsterhausen 57 WDR-Ruhr, NDR/WDR-Dortmund, MDR, SWR
+T 762000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE #Gelsenkirchen-Scholven 57 WDR-Ruhr, NDR/WDR-Dortmund, MDR, SWR
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Gummersbach 26 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 698000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Gummersbach 49 WDR-Köln, MDR/WDR-Bonn, NDR/WDR-Aachen, SWR
+T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Gummersbach 50 Das Erste, arte, Phoenix, EinsFestival
+T 522000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Hochsauerland 27 WDR-Südwestfalen, NDR, MDR, SWR
+T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Hochsauerland 30 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Hochsauerland 60 Das Erste, arte, Phoenix, EinsFestival
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Hohe Warte 26 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 698000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Hohe Warte 49 WDR-Köln, MDR/WDR-Bonn, NDR/WDR-Aachen, SWR
+T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Hohe Warte 50 Das Erste, arte, Phoenix, EinsFestival
+T 674000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Kleve / Bresserberg 46 WDR-Düsseldorf, MDR/WDR-Duisburg, NDR/WDR-Berg.Land, SWR
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Kleve / Bresserberg 48 Das Erste, arte, Phoenix, EinsFestivalLeistung
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Köln-Colonius 26 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Köln-Colonius 29 RTL, RTL2, Super RTL, VOX
+T 594000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Köln-Colonius 36 Tele5, CNN, Eurosport, VIVA
+T 698000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Köln-Colonius 49 WDR-Köln, MDR/WDR-Bonn, NDR/WDR-Aachen, SWR
+T 706000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Köln-Colonius 50 Das Erste, arte, Phoenix, EinsFestival
+T 730000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Köln-Colonius 53 ProSieben, Sat.1, Kabel1, N24
+T 506000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE #Langenberg / Hordtberg 25 WDR-Dortmund, NDR/WDR-Ruhr, MDR, SWR
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Langenberg / Hordtberg 29 RTL, RTL2, Super RTL, VOX
+T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Langenberg / Hordtberg 35 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 674000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Langenberg / Hordtberg 46 WDR-Düsseldorf, MDR/WDR-Duisburg, NDR/WDR-Berg.Land, SWR
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Langenberg / Hordtberg 48 Das Erste, arte, Phoenix, EinsFestival
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Langenberg / Hordtberg 52 Tele5, CNN, Eurosport, VIVA
+T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Langenberg / Hordtberg 55 ProSieben, Sat.1, Kabel1, N24
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Minden (Porta Westfalica) 26 Das Erste, arte, Phoenix, EinsFestival
+T 554000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Minden (Porta Westfalica) 31 WDR-OWL_aktuell, NDR/WDR-Südwestfalen, MDR, SWR
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Minden (Porta Westfalica) 33 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Münster / Baumberg 21 Das Erste, arte, Phoenix, EinsFestival
+T 666000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Münster / Baumberg 45 WDR-Münster, MDR/WDR-Dortmund, NDR, SWR
+T 778000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Münster / Baumberg 59 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 474000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Münster-Stadt (Fernmeldeturm) 21 Das Erste, arte, Phoenix, EinsFestival
+T 666000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Münster-Stadt (Fernmeldeturm) 45 WDR-Münster, NDR/WDR-Dortmund, MDR, SWR
+T 778000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Münster-Stadt (Fernmeldeturm) 59 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 522000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Nordhelle 27 WDR-Südwestfalen, NDR, MDR, SWR
+T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Nordhelle 30 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Nordhelle 60 Das Erste, arte, Phoenix, EinsFestival
+T 522000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Siegen-Stadt (Giersberg) 27 WDR-Südwestfalen, NDR, MDR, SWR
+T 546000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Siegen-Stadt (Giersberg) 30 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 786000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Siegen-Stadt (Giersberg) 60 Das Erste, arte, Phoenix, EinsFestival
+T 514000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Teutoburger Wald (Bielstein) 26 Das Erste, arte, Phoenix, EinsFestival
+T 554000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Teutoburger Wald (Bielstein) 31 WDR-OWL_aktuell, NDR/WDR-Südwestfalen, MDR, SWR
+T 570000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Teutoburger Wald (Bielstein) 33 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 538000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Wesel-Büderich 29 RTL, RTL2, Super RTL, VOX
+T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Wesel-Büderich 35 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 674000000 8MHz 1/2 NONE QAM64 8k 1/4 NONE #Wesel-Büderich 46 WDR-Düsseldorf, MDR/WDR-Duisburg, NDR/WDR-Berg.Land, SWR
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Wesel-Büderich 48 Das Erste, arte, Phoenix, EinsFestival
+T 722000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Wesel-Büderich 52 Tele5, CNN, Eurosport, VIVA
+T 746000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Wesel-Büderich 55 ProSieben, Sat.1, Kabel1, N24
+T 482000000 8MHz 2/3 NONE QAM16 8k 1/8 NONE #Wuppertal-Küllenhahn 22 WDR-BergischesLand, NDR/WDR-Düsseldorf, MDR, SWR
+T 586000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Wuppertal-Küllenhahn 35 ZDF, 3sat, KiKa / ZDFneo, ZDFinfo
+T 690000000 8MHz 2/3 NONE QAM16 8k 1/4 NONE #Wuppertal-Küllenhahn 48 Das Erste, arte, Phoenix, EinsFestivalLeistung
+
